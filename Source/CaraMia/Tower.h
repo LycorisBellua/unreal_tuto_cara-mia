@@ -7,7 +7,7 @@
 #include "Tower.generated.h"
 
 UCLASS()
-class DROOFT_API ATower : public ABasePawn
+class CARAMIA_API ATower : public ABasePawn
 {
 	GENERATED_BODY()
 	

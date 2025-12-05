@@ -7,7 +7,7 @@
 #include "BasePawn.generated.h"
 
 UCLASS()
-class DROOFT_API ABasePawn : public APawn
+class CARAMIA_API ABasePawn : public APawn
 {
 	GENERATED_BODY()
 

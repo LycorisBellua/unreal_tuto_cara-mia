@@ -3,13 +3,13 @@
 using UnrealBuildTool;
 using System.Collections.Generic;
 
-public class DrooftTarget : TargetRules
+public class CaraMiaTarget : TargetRules
 {
-	public DrooftTarget(TargetInfo Target) : base(Target)
+	public CaraMiaTarget(TargetInfo Target) : base(Target)
 	{
 		Type = TargetType.Game;
 		DefaultBuildSettings = BuildSettingsVersion.V4;
 
-		ExtraModuleNames.AddRange( new string[] { "Drooft" } );
+		ExtraModuleNames.AddRange( new string[] { "CaraMia" } );
 	}
 }

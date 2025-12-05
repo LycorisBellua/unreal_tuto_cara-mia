@@ -2,9 +2,9 @@
 
 using UnrealBuildTool;
 
-public class Drooft : ModuleRules
+public class CaraMia : ModuleRules
 {
-	public Drooft(ReadOnlyTargetRules Target) : base(Target)
+	public CaraMia(ReadOnlyTargetRules Target) : base(Target)
 	{
 		PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
 	

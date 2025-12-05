@@ -7,7 +7,7 @@
 #include "Tank.generated.h"
 
 UCLASS()
-class DROOFT_API ATank : public ABasePawn
+class CARAMIA_API ATank : public ABasePawn
 {
 	GENERATED_BODY()
 	
